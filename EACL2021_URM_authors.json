@@ -6,7 +6,8 @@
       "Carolyn Rose"
     ],
     "Title": "Adapting Event Extractors to Medical Data: Bridging the Covariate Shift",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1121.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1121.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.258"
   },
   {
     "Authors": [
@@ -18,7 +19,8 @@
       "Alan W Black"
     ],
     "Title": "NoiseQA: Challenge Set Evaluation for User-Centric Question Answering",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1122.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1122.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.259"
   },
   {
     "Authors": [
@@ -27,7 +29,8 @@
       "Alessandro Moschitti"
     ],
     "Title": "Modeling Context in Answer Sentence Selection Systems on a Latency Budget",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1142.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1142.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.261"
   },
   {
     "Authors": [
@@ -38,7 +41,8 @@
       "Joakim Nivre"
     ],
     "Title": "Attention Can Reflect Syntactic Structure (If You Let It)",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1157.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1157.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.264"
   },
   {
     "Authors": [
@@ -46,7 +50,8 @@
       "Danushka Bollegala"
     ],
     "Title": "Dictionary-based Debiasing of Pre-trained Word Embeddings",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.116.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.116.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.16"
   },
   {
     "Authors": [
@@ -57,7 +62,8 @@
       "Noah Smith"
     ],
     "Title": "Challenges in Automated Debiasing for Toxic Language Detection",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1211.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1211.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.274"
   },
   {
     "Authors": [
@@ -69,7 +75,8 @@
       "malhar kulkarni"
     ],
     "Title": "Cognition-aware Cognate Detection",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1259.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1259.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.288"
   },
   {
     "Authors": [
@@ -78,7 +85,8 @@
       "Eduard Hovy"
     ],
     "Title": "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1285.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1285.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.295"
   },
   {
     "Authors": [
@@ -89,7 +97,8 @@
       "Aline Villavicencio"
     ],
     "Title": "Probing for idiomaticity in vector space models",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1331.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1331.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.310"
   },
   {
     "Authors": [
@@ -101,7 +110,8 @@
       "Timothy Baldwin"
     ],
     "Title": "On the (In)Effectiveness of Images for Text Classification",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.18.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.18.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.4"
   },
   {
     "Authors": [
@@ -109,7 +119,8 @@
       "Isabelle Augenstein"
     ],
     "Title": "Does Typological Blinding Impede Cross-Lingual Sharing?",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.198.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.198.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.38"
   },
   {
     "Authors": [
@@ -121,7 +132,8 @@
       "Jens Lehmann"
     ],
     "Title": "CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.213.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.213.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.40"
   },
   {
     "Authors": [
@@ -129,7 +141,8 @@
       "Patrick Blackburn"
     ],
     "Title": "Grounding as a Collaborative Process",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.215.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.215.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.41"
   },
   {
     "Authors": [
@@ -141,7 +154,8 @@
       "Maria Maleshkova"
     ],
     "Title": "Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.343.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.343.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.72"
   },
   {
     "Authors": [
@@ -149,7 +163,8 @@
       "Zhou Yu"
     ],
     "Title": "MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.423.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.423.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.94"
   },
   {
     "Authors": [
@@ -157,7 +172,8 @@
       "Danushka Bollegala"
     ],
     "Title": "Debiasing Pre-trained Contextualised Embeddings",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.473.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.473.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.107"
   },
   {
     "Authors": [
@@ -167,7 +183,8 @@
       "Zhou Yu"
     ],
     "Title": "Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.490.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.490.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.110"
   },
   {
     "Authors": [
@@ -175,7 +192,8 @@
       "Anette Frank"
     ],
     "Title": "Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.610.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.610.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.129"
   },
   {
     "Authors": [
@@ -185,7 +203,8 @@
       "Ken-ichi Kawarabayashi"
     ],
     "Title": "RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.642.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.642.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.133"
   },
   {
     "Authors": [
@@ -195,7 +214,8 @@
       "Matthias Gall\u00e9"
     ],
     "Title": "Self-Supervised and Controlled Multi-Document Opinion Summarization",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.674.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.674.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.141"
   },
   {
     "Authors": [
@@ -205,7 +225,8 @@
       "Katja Filippova"
     ],
     "Title": "We Need To Talk About Random Splits",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.755.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.755.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.156"
   },
   {
     "Authors": [
@@ -215,7 +236,8 @@
       "Aaron Sisto"
     ],
     "Title": "ChainCQG: Flow-Aware Conversational Question Generation",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.828.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.828.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.177"
   },
   {
     "Authors": [
@@ -225,7 +247,8 @@
       "Rajiv Ratn Shah"
     ],
     "Title": "FAST: Financial News and Tweet Based Time Aware Network for Stock Trading",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.865.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.865.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.185"
   },
   {
     "Authors": [
@@ -235,7 +258,8 @@
       "Kathleen McKeown"
     ],
     "Title": "Event-Driven News Stream Clustering using Entity-Aware Contextual Embeddings",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.909.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.909.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.198"
   },
   {
     "Authors": [
@@ -246,7 +270,8 @@
       "David R. Mortensen"
     ],
     "Title": "Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.932.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.932.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.204"
   },
   {
     "Authors": [
@@ -256,7 +281,8 @@
       "Rajiv Ratn Shah"
     ],
     "Title": "PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.934.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.934.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.205"
   },
   {
     "Authors": [
@@ -268,7 +294,8 @@
       "Yulia Tsvetkov"
     ],
     "Title": "StructSum: Summarization via Structured Representations",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.982.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.982.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-main.220"
   },
   {
     "Authors": [
@@ -277,7 +304,8 @@
       "Anette Frank"
     ],
     "Title": "COCO-EX: A Tool for Linking Concepts from Texts to ConceptNet",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_demo.20.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_demo.20.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.eacl-demos.15"
   },
   {
     "Authors": [
@@ -285,14 +313,16 @@
       "Praveenraj Dhandapani"
     ],
     "Title": "Tamil Lyrics Corpus: Analysis and Experiments",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-1-1.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-1-1.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.dravidianlangtech-1.1"
   },
   {
     "Authors": [
       "Dhivya Chinnappa"
     ],
     "Title": "dhivya-hope-detection@LT-EDI-EACL2021: Multilingual Hope Speech Detection for Code-mixed and Transliterated Texts",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-2-9.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-2-9.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.ltedi-1.9"
   },
   {
     "Authors": [
@@ -303,7 +333,8 @@
       "Fatiha Sadat"
     ],
     "Title": "On the Hidden Negative Transfer in Sequential Transfer Learning for Domain Adaptation from News to Tweets",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-14.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-14.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.adaptnlp2021-1.14"
   },
   {
     "Authors": [
@@ -315,7 +346,8 @@
       "Fei Liu"
     ],
     "Title": "Semantic Parsing of Brief and Multi-Intent Natural Language Utterances",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-25.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-25.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.adaptnlp2021-1.25"
   },
   {
     "Authors": [
@@ -323,7 +355,8 @@
       "Bilal Ghanem"
     ],
     "Title": "Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-4-16.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-4-16.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.wanlp-1.16"
   },
   {
     "Authors": [
@@ -332,7 +365,8 @@
       "Ashwini Vaidya"
     ],
     "Title": "Fine-tuning Distributional Semantic Models for Closely-Related Languages",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-8-7.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-8-7.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.vardial-1.7"
   },
   {
     "Authors": [
@@ -341,7 +375,8 @@
       "Marine Carpuat"
     ],
     "Title": "Machine Translation Believability",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-14.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-14.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.hcinlp-1.14"
   },
   {
     "Authors": [
@@ -351,6 +386,7 @@
       "Diyi Yang"
     ],
     "Title": "Putting Humans in the Natural Language Processing Loop: A Survey",
-    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-8.html"
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-8.html",
+    "Anthology URL": "https://www.aclweb.org/anthology/2021.hcinlp-1.8"
   }
 ]

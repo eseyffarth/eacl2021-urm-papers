@@ -40,7 +40,8 @@ with open(papers_path, "r", encoding="utf8") as json_infile:
                 this_paper_link = paper_link_pattern.format(this_paper["id"])
                 URM_papers.append({"Authors": current_authors,
                                 "Title": this_paper["content"]["title"],
-                                "Talk URL": this_paper_link})
+                                "Talk URL": this_paper_link,
+                                "Anthology URL": this_paper["content"]["pdf_url"]})
                 break
 
 # Write one json file with all URM-authored EACL 2021 papers.
