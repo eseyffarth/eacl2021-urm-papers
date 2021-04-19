@@ -1,0 +1,356 @@
+[
+  {
+    "Authors": [
+      "Aakanksha Naik",
+      "Jill Fain Lehman",
+      "Carolyn Rose"
+    ],
+    "Title": "Adapting Event Extractors to Medical Data: Bridging the Covariate Shift",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1121.html"
+  },
+  {
+    "Authors": [
+      "Abhilasha Ravichander",
+      "Siddharth Dalmia",
+      "Maria Ryskina",
+      "Florian Metze",
+      "Eduard Hovy",
+      "Alan W Black"
+    ],
+    "Title": "NoiseQA: Challenge Set Evaluation for User-Centric Question Answering",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1122.html"
+  },
+  {
+    "Authors": [
+      "Rujun Han",
+      "Luca Soldaini",
+      "Alessandro Moschitti"
+    ],
+    "Title": "Modeling Context in Answer Sentence Selection Systems on a Latency Budget",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1142.html"
+  },
+  {
+    "Authors": [
+      "Vinit Ravishankar",
+      "Artur Kulmizev",
+      "Mostafa Abdou",
+      "Anders S\u00f8gaard",
+      "Joakim Nivre"
+    ],
+    "Title": "Attention Can Reflect Syntactic Structure (If You Let It)",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1157.html"
+  },
+  {
+    "Authors": [
+      "Masahiro Kaneko",
+      "Danushka Bollegala"
+    ],
+    "Title": "Dictionary-based Debiasing of Pre-trained Word Embeddings",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.116.html"
+  },
+  {
+    "Authors": [
+      "Xuhui Zhou",
+      "Maarten Sap",
+      "Swabha Swayamdipta",
+      "Yejin Choi",
+      "Noah Smith"
+    ],
+    "Title": "Challenges in Automated Debiasing for Toxic Language Detection",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1211.html"
+  },
+  {
+    "Authors": [
+      "Diptesh Kanojia",
+      "Prashant Sharma",
+      "Sayali Ghodekar",
+      "Pushpak Bhattacharyya",
+      "Gholamreza Haffari",
+      "malhar kulkarni"
+    ],
+    "Title": "Cognition-aware Cognate Detection",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1259.html"
+  },
+  {
+    "Authors": [
+      "Abhilasha Ravichander",
+      "Yonatan Belinkov",
+      "Eduard Hovy"
+    ],
+    "Title": "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1285.html"
+  },
+  {
+    "Authors": [
+      "Marcos Garcia",
+      "Tiago Kramer Vieira",
+      "Carolina Scarton",
+      "Marco Idiart",
+      "Aline Villavicencio"
+    ],
+    "Title": "Probing for idiomaticity in vector space models",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.1331.html"
+  },
+  {
+    "Authors": [
+      "Chunpeng Ma",
+      "Aili Shen",
+      "Hiyori Yoshikawa",
+      "Tomoya Iwakura",
+      "Daniel Beck",
+      "Timothy Baldwin"
+    ],
+    "Title": "On the (In)Effectiveness of Images for Text Classification",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.18.html"
+  },
+  {
+    "Authors": [
+      "Johannes Bjerva",
+      "Isabelle Augenstein"
+    ],
+    "Title": "Does Typological Blinding Impede Cross-Lingual Sharing?",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.198.html"
+  },
+  {
+    "Authors": [
+      "Manoj Prabhakar Kannan Ravi",
+      "Kuldeep Singh",
+      "Isaiah Onando Mulang'",
+      "Saeedeh Shekarpour",
+      "Johannes Hoffart",
+      "Jens Lehmann"
+    ],
+    "Title": "CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.213.html"
+  },
+  {
+    "Authors": [
+      "Luciana Benotti",
+      "Patrick Blackburn"
+    ],
+    "Title": "Grounding as a Collaborative Process",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.215.html"
+  },
+  {
+    "Authors": [
+      "Endri Kacupaj",
+      "Joan Plepi",
+      "Kuldeep Singh",
+      "Harsh Thakkar",
+      "Jens Lehmann",
+      "Maria Maleshkova"
+    ],
+    "Title": "Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.343.html"
+  },
+  {
+    "Authors": [
+      "Dian Yu",
+      "Zhou Yu"
+    ],
+    "Title": "MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.423.html"
+  },
+  {
+    "Authors": [
+      "Masahiro Kaneko",
+      "Danushka Bollegala"
+    ],
+    "Title": "Debiasing Pre-trained Contextualised Embeddings",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.473.html"
+  },
+  {
+    "Authors": [
+      "Qingyang Wu",
+      "Yichi Zhang",
+      "Yu Li",
+      "Zhou Yu"
+    ],
+    "Title": "Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.490.html"
+  },
+  {
+    "Authors": [
+      "Juri Opitz",
+      "Anette Frank"
+    ],
+    "Title": "Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.610.html"
+  },
+  {
+    "Authors": [
+      "Danushka Bollegala",
+      "Huda Hakami",
+      "Yuichi Yoshida",
+      "Ken-ichi Kawarabayashi"
+    ],
+    "Title": "RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.642.html"
+  },
+  {
+    "Authors": [
+      "Hady Elsahar",
+      "Maximin Coavoux",
+      "Jos Rozen",
+      "Matthias Gall\u00e9"
+    ],
+    "Title": "Self-Supervised and Controlled Multi-Document Opinion Summarization",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.674.html"
+  },
+  {
+    "Authors": [
+      "Anders S\u00f8gaard",
+      "Sebastian Ebert",
+      "Jasmijn Bastings",
+      "Katja Filippova"
+    ],
+    "Title": "We Need To Talk About Random Splits",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.755.html"
+  },
+  {
+    "Authors": [
+      "Jing Gu",
+      "Mostafa Mirshekari",
+      "Zhou Yu",
+      "Aaron Sisto"
+    ],
+    "Title": "ChainCQG: Flow-Aware Conversational Question Generation",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.828.html"
+  },
+  {
+    "Authors": [
+      "Ramit Sawhney",
+      "Arnav Wadhwa",
+      "Shivam Agarwal",
+      "Rajiv Ratn Shah"
+    ],
+    "Title": "FAST: Financial News and Tweet Based Time Aware Network for Stock Trading",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.865.html"
+  },
+  {
+    "Authors": [
+      "Kailash Karthik Saravanakumar",
+      "Miguel Ballesteros",
+      "Muthu Kumar Chandrasekaran",
+      "Kathleen McKeown"
+    ],
+    "Title": "Event-Driven News Stream Clustering using Entity-Aware Contextual Embeddings",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.909.html"
+  },
+  {
+    "Authors": [
+      "Jimin Sun",
+      "Hwijeen Ahn",
+      "Chan Young Park",
+      "Yulia Tsvetkov",
+      "David R. Mortensen"
+    ],
+    "Title": "Cross-Cultural Similarity Features for Cross-Lingual Transfer Learning of Pragmatically Motivated Tasks",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.932.html"
+  },
+  {
+    "Authors": [
+      "Ramit Sawhney",
+      "Harshit Joshi",
+      "Lucie Flek",
+      "Rajiv Ratn Shah"
+    ],
+    "Title": "PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.934.html"
+  },
+  {
+    "Authors": [
+      "Vidhisha Balachandran",
+      "Artidoro Pagnoni",
+      "Jay Yoon Lee",
+      "Dheeraj Rajagopal",
+      "Jaime Carbonell",
+      "Yulia Tsvetkov"
+    ],
+    "Title": "StructSum: Summarization via Structured Representations",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_main.982.html"
+  },
+  {
+    "Authors": [
+      "Maria Becker",
+      "Katharina Korfhage",
+      "Anette Frank"
+    ],
+    "Title": "COCO-EX: A Tool for Linking Concepts from Texts to ConceptNet",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_demo.20.html"
+  },
+  {
+    "Authors": [
+      "Dhivya Chinnappa",
+      "Praveenraj Dhandapani"
+    ],
+    "Title": "Tamil Lyrics Corpus: Analysis and Experiments",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-1-1.html"
+  },
+  {
+    "Authors": [
+      "Dhivya Chinnappa"
+    ],
+    "Title": "dhivya-hope-detection@LT-EDI-EACL2021: Multilingual Hope Speech Detection for Code-mixed and Transliterated Texts",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-2-9.html"
+  },
+  {
+    "Authors": [
+      "Sara Meftah",
+      "Nasredine Semmar",
+      "Youssef Tamaazousti",
+      "Hassane Essafi",
+      "Fatiha Sadat"
+    ],
+    "Title": "On the Hidden Negative Transfer in Sequential Transfer Learning for Domain Adaptation from News to Tweets",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-14.html"
+  },
+  {
+    "Authors": [
+      "Logan Lebanoff",
+      "Charles Newton",
+      "Victor Hung",
+      "Beth Atkinson",
+      "John Killilea",
+      "Fei Liu"
+    ],
+    "Title": "Semantic Parsing of Brief and Multi-Intent Natural Language Utterances",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-3-25.html"
+  },
+  {
+    "Authors": [
+      "Hala Mulki",
+      "Bilal Ghanem"
+    ],
+    "Title": "Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-4-16.html"
+  },
+  {
+    "Authors": [
+      "Kushagra Bhatia",
+      "Divyanshu Aggarwal",
+      "Ashwini Vaidya"
+    ],
+    "Title": "Fine-tuning Distributional Semantic Models for Closely-Related Languages",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-8-7.html"
+  },
+  {
+    "Authors": [
+      "Marianna Martindale",
+      "Kevin Duh",
+      "Marine Carpuat"
+    ],
+    "Title": "Machine Translation Believability",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-14.html"
+  },
+  {
+    "Authors": [
+      "Zijie Wang",
+      "Dongjin Choi",
+      "Shenyu Xu",
+      "Diyi Yang"
+    ],
+    "Title": "Putting Humans in the Natural Language Processing Loop: A Survey",
+    "Talk URL": "https://www.virtual2021.eacl.org/paper_WS-13-8.html"
+  }
+]
